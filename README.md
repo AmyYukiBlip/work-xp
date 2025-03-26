@@ -34,7 +34,7 @@ Follow these steps to set up and run the project locally:
 
 Clone this repository to your local machine:
 
-```git clone https://github.com/loklokyuen/work-xp.git && cd work-xp```
+```git clone https://github.com/AmyYukiBlip/work-xp```
 
 
 ### 2. Install dependencies
